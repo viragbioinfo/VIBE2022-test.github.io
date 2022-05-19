@@ -1,7 +1,7 @@
 title: VIBE Conference 2022
 preposition: ''
 description: >-
-  Virtual Institute of Bioinformatics and Evolution, All-Ireand Conference
+  Virtual Institute of Bioinformatics and Evolution, All-Ireland Conference
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -31,7 +31,7 @@ collections:
     output: true
     permalink: /:collection/:title/
   rooms:
-    output: true
+    output: false
     permalink: /:collection/:title/
 
 defaults:
