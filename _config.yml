@@ -106,7 +106,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to VIBE 2022
+    - title: VIBE Conference 2022
       color: primary
       main_only: true
       text: |
