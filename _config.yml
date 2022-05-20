@@ -130,17 +130,29 @@ conference:
       duration: 300  # in seconds
       pause:     10  # in seconds
 
-  map:
-    # Initial map center point
-    home_coord: 52.67846, -8.56815
-    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+#  map:
+#    # Initial map center point
+#    home_coord: 52.67846, -8.56815
+#    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
-    map_provider: "OpenStreetMap.Mapnik"
-    default_zoom: 17
+#    map_provider: "OpenStreetMap.Mapnik"
+#    default_zoom: 17
 
+
+map:
+  provider: openstreetmap
+    zoom: 8
+    dimensions:
+      width: 600
+      height: 400
+	locations: 
+		- title: University of Limerick, School of Medicine
+		  latitude: 52.67846
+		  longitude: -8.56815
+      
   talks:
     # Talk categories
     main_categories:
