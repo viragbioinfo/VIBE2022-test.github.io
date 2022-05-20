@@ -3,15 +3,13 @@ preposition: at
 description: >-
   Virtual Institute of Bioinformatics and Evolution, All-Ireland Conference
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
-
-remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@2.0.0"
-
-
-plugins:
-  - jekyll-include-cache
-
+url: "https://VIBE2022.github.io" # the base hostname & protocol for your site, e.g.  https://example.com
+  
+#theme: jekyll-theme-conference
+remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.0"
 # Build settings
+plugins:
+  [jekyll-include-cache]
 markdown: kramdown
 sass:
   style: compressed
@@ -23,6 +21,7 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - purgecss.config.js
+  
 
 # Collections and their defaults
 collections:
