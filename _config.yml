@@ -101,24 +101,27 @@ conference:
         relative_url: /program/
       - name: How to get there
         relative_url: /location/
-      - name: Tickets
-        disabled: true
-        absolute_url: ''
-
+      - name: Register
+        disabled: false
+        absolute_url: 'https://bit.ly/RegisterVIBE'
+      - name: Submit an abstract
+        disabled: false
+        absolute_url: 'https://bit.ly/abstractVIBE'
+	
   # Information boxes
   info_bars:
     - title: VIBE Conference 2022
       color: primary
       main_only: true
-      text: Text yet to be populated
+      text: University of Limerick, School of Limerick, June 24th 2022
     - text: Conference of VIBE.
       color: warning
       pages_only: true
 
   # Live indications
   live:
-    date: 01.01.2020
-    timezone: GMT+1
+    date: 24.06.2022
+    timezone: GMT
     stop:       240  # in minutes
     streaming:
       enable: true
@@ -130,28 +133,21 @@ conference:
       duration: 300  # in seconds
       pause:     10  # in seconds
 
-#  map:
-#    # Initial map center point
-#    home_coord: 52.67846, -8.56815
-#    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+  map:
+    # Initial map center point
+    home_coord: 52.67846, -8.56815
+    map_provider:  "Esri.WorldImagery"
+    
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
     # The following do match the Bootstrap design not too badly:
     #   - Hydda.Full
     #   - Thunderforest.Neighbourhood
     #   - Esri.WorldTopoMap
-#    map_provider: "OpenStreetMap.Mapnik"
-#    default_zoom: 17
+    #. map_provider: "OpenStreetMap.Mapnik"
+    #  default_zoom: 19
 
 
-map:
-  provider: openstreetmap
-    zoom: 8
-    dimensions:
-      width: 600
-      height: 400
-    locations: 
-	- title: University of Limerick, School of Medicine
-	  latitude: 52.67846
-	  longitude: -8.56815
+
       
   talks:
     # Talk categories
