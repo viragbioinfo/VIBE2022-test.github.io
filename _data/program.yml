@@ -5,7 +5,7 @@ days:
   rooms:
   - name: lecture theatre
     talks:
-      - name: Keyote
+      - name: Keynote
         time_start: '12:00'
         time_end: '12:45'
       - name: lightning        
