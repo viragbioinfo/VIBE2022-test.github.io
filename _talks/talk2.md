@@ -1,10 +1,10 @@
 ---
-name: Condimentum Vitae Sapien Pellentesque
+name: lightning
 speakers:
-  - Tolga Philip
-  - Alex Rosales
+  - Person A
+  - Person B
 categories:
-  - Cat A
+  - lightning
   - Talk
 hide: true
 ---
