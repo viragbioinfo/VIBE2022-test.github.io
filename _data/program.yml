@@ -3,16 +3,16 @@ days:
   abbr: Fri
   date: 2022-016-24
   rooms:
-  - name: Lecture Hall
+  - name: lecture theatre
     talks:
       - name: Keyote
         time_start: '12:00'
         time_end: '12:45'
-      - name: Talk 2        
+      - name: lightning        
         time_start: '12:45'
         time_end: '13:30'
 
-  - name: Break Out Room
+  - name: seminar room
     talks:
       - name: Discussion
         time_start: '12:00'
