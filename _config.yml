@@ -148,10 +148,10 @@ map:
     dimensions:
       width: 600
       height: 400
-	locations: 
-		- title: University of Limerick, School of Medicine
-		  latitude: 52.67846
-		  longitude: -8.56815
+    locations: 
+	- title: University of Limerick, School of Medicine
+	  latitude: 52.67846
+	  longitude: -8.56815
       
   talks:
     # Talk categories
