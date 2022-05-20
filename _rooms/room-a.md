@@ -1,5 +1,5 @@
 ---
-name: Room A
+name: Lecture theatre
 ---
 
-A short way description on how to find the room
+Ground floor of the School of Medicine, on the left as you come in the main door.
