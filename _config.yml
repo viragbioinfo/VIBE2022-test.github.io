@@ -156,7 +156,7 @@ conference:
       - name: 10_mintalk
         color: success
       - name: keynote
-        color: light
+        color: warning
       - name: workshop
         color: dark
 
