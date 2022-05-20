@@ -106,8 +106,7 @@ conference:
         absolute_url: 'https://bit.ly/RegisterVIBE'
       - name: Submit an abstract
         disabled: False
-        absolute_url: 'https://bit.ly/abstractVIBE'
-	
+        absolute_url: 'https://bit.ly/abstractVIBE'	
   # Information boxes
   info_bars:
     - title: VIBE Conference 2022
