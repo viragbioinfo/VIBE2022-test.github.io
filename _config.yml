@@ -109,10 +109,7 @@ conference:
     - title: VIBE Conference 2022
       color: primary
       main_only: true
-      text: |
-           Text yet to be populated
-        ---
-
+      text: Text yet to be populated
     - text: Conference of VIBE.
       color: warning
       pages_only: true
