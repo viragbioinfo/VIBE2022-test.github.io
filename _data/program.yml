@@ -1,25 +1,21 @@
 days:
-- name: Monday
-  abbr: Mo
-  date: 2020-01-31
+- name: Friday
+  abbr: Fri
+  date: 2022-016-24
   rooms:
-  - name: Room A
+  - name: Lecture Hall
     talks:
-      - name: Vim Impetus Placerat Cotidieque Ad
+      - name: Keyote
         time_start: '12:00'
         time_end: '12:45'
-      - name: Condimentum Vitae Sapien Pellentesque
+      - name: Talk 2        
         time_start: '12:45'
         time_end: '13:30'
 
-  - name: Room B
+  - name: Break Out Room
     talks:
-      - name: Arcu Non Odio
+      - name: Discussion
         time_start: '12:00'
         time_end: '13:00'
 
-  - name: Room C
-    talks:
-      - name: Eu Nisl Nunc Mi Ipsum Faucibus
-        time_start: '13:30'
-        time_end: '14:30'
+
