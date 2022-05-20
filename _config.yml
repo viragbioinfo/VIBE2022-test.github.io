@@ -105,7 +105,7 @@ conference:
         disabled: false
         absolute_url: 'https://bit.ly/RegisterVIBE'
       - name: Submit an abstract
-        disabled: false
+        disabled: False
         absolute_url: 'https://bit.ly/abstractVIBE'
 	
   # Information boxes
