@@ -2,4 +2,4 @@
 name: Lecture theatre
 ---
 
-Ground floor of the School of Medicine, on the left as you come in the main door.
+The lecture theatre is on the ground floor of the School of Medicine (Room 0-016) on the left as you come in the main door.
