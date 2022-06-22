@@ -8,4 +8,5 @@ layout: home
 - *Venue:* School of Medicine Room 0-016
 - *Date:* Friday June 24th 
 - *Time:* 10:30am - 4:30pm (TBC)
-- *Keynote:* Prof Des Higgins, UCD. 
+- *Keynote:* Prof Des Higgins, UCD.
+- *Conference:* VIBE Annual Meet
